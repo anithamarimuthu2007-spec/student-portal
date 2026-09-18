@@ -1,0 +1,6 @@
+{
+  "name": "Student Academic Portal",
+  "description": "Personal Student Academic Portal for Anitha M (24UCS16, B.Sc. Computer Science, Thiagarajar College) featuring student profile, semester marksheets and percentage, and transport commute calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
